@@ -1,7 +1,9 @@
 # Mushroom Classification Using Data Mining
 
 **Student:** Hamedallah Anwer Hamedallah Issa
+
 **Student ID:** 320220603007
+
 **Supervisor:** Dr. Muhammad Al-Musaideen
 
 ---
